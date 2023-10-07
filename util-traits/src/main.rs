@@ -8,5 +8,4 @@ fn main() {
         current: 0,
     };
     util_traits::show_it(&s);
-    println!("Hello, world!");
 }
