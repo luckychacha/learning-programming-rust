@@ -3,5 +3,13 @@
 version = 3
 
 [[package]]
+name = "callback"
+version = "0.1.0"
+
+[[package]]
 name = "learning-programming-rust"
+version = "0.1.0"
+
+[[package]]
+name = "util-traits"
 version = "0.1.0"

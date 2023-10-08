@@ -1,13 +1,8 @@
 [package]
-name = "learning-programming-rust"
+name = "callback"
 version = "0.1.0"
 edition = "2021"
 
-[workspace]
-members = [
-	"util-traits",
-	"callback",
-]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
